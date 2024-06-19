@@ -59,4 +59,4 @@ Y is either 1 or 0. If the first image and second image are from the same class,
 ## Result
 
 Our model produced an accuracy of 95.5% .
-![Sample Outputs]()
+![Sample Outputs](https://github.com/Coolsheru2526/Face-Recognition/blob/main/outputs.jpg?raw=true)
